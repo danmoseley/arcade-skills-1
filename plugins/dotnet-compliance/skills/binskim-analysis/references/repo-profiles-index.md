@@ -16,6 +16,7 @@ Each file documents the BinSkim pipeline configuration, scan targets, known find
 | dotnet/aspire | [repo-aspire.md](repo-aspire.md) |
 | dotnet/diagnostics | [repo-diagnostics.md](repo-diagnostics.md) |
 | microsoft/perfview | [repo-perfview.md](repo-perfview.md) |
+| DevDiv/WebTools | [repo-webtools.md](repo-webtools.md) |
 
 ## Discovering New Repos
 
